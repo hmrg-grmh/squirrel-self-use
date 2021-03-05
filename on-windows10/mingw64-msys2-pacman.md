@@ -67,6 +67,8 @@ pacman -S --needed \
     mingw64/mingw-w64-x86_64-aria2 \
     mingw64/mingw-w64-x86_64-dnssec-anchors \
     mingw64/mingw-w64-x86_64-qbittorrent \
+    mingw64/mingw-w64-x86_64-portaudio \
+    mingw64/mingw-w64-x86_64-pidgin \
     mingw64/mingw-w64-x86_64-libmicrodns \
     mingw64/mingw-w64-x86_64-ffmpeg \
     mingw64/mingw-w64-x86_64-MinHook \
