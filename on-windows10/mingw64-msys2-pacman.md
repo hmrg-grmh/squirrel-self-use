@@ -67,6 +67,7 @@ pacman -S --needed \
     mingw64/mingw-w64-x86_64-aria2 \
     mingw64/mingw-w64-x86_64-dnssec-anchors \
     mingw64/mingw-w64-x86_64-qbittorrent \
+    mingw64/mingw-w64-x86_64-precice \
     mingw64/mingw-w64-x86_64-portaudio \
     mingw64/mingw-w64-x86_64-pidgin \
     mingw64/mingw-w64-x86_64-libmicrodns \
@@ -248,6 +249,7 @@ pacman -S --needed \
     msys/psmisc \
     msys/nano \
     msys/findutils \
+    msys/parallel \
     msys/heimdal \
     msys/procps-ng \
     msys/perl-LWP-Protocol-https \
