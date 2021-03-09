@@ -99,12 +99,15 @@ pacman -S --needed \
     mingw64/mingw-w64-x86_64-ruby \
     mingw64/mingw-w64-x86_64-lua \
     mingw64/mingw-w64-x86_64-nim \
+    mingw64/mingw-w64-x86_64-vala \
+    mingw64/mingw-w64-x86_64-uncrustify \
     mingw64/mingw-w64-x86_64-nimble \
     mingw64/mingw-w64-x86_64-jq \
     mingw64/mingw-w64-x86_64-go \
     mingw64/mingw-w64-x86_64-perl \
     mingw64/mingw-w64-x86_64-perl-doc \
     mingw64/mingw-w64-x86_64-tolua \
+    mingw64/mingw-w64-x86_64-lua51-winapi \
     mingw64/mingw-w64-x86_64-gcc \
     mingw64/mingw-w64-x86_64-gcc-libs \
     mingw64/mingw-w64-x86_64-expresscpp \
@@ -114,16 +117,24 @@ pacman -S --needed \
     mingw64/mingw-w64-x86_64-cmake \
     mingw64/mingw-w64-x86_64-dmake \
     mingw64/mingw-w64-x86_64-extra-cmake-modules \
+    mingw64/mingw-w64-x86_64-live-chart-gtk3 \
     mingw64/mingw-w64-x86_64-hiredis \
     mingw64/mingw-w64-x86_64-cython \
     mingw64/mingw-w64-x86_64-python \
     mingw64/mingw-w64-x86_64-python-pip \
     mingw64/mingw-w64-x86_64-python-wheel \
+    mingw64/mingw-w64-x86_64-python-numba \
     mingw64/mingw-w64-x86_64-python-ipython \
     mingw64/mingw-w64-x86_64-python-path \
     mingw64/mingw-w64-x86_64-python-pathspec \
     mingw64/mingw-w64-x86_64-python-virtualenv \
     mingw64/mingw-w64-x86_64-python-psutil \
+    mingw64/mingw-w64-x86_64-python-theano \
+    mingw64/mingw-w64-x86_64-python-mpmath \
+    mingw64/mingw-w64-x86_64-python-markdown-math \
+    mingw64/mingw-w64-x86_64-mathgl \
+    mingw64/mingw-w64-x86_64-mtex2MML \
+    mingw64/mingw-w64-x86_64-muparser \
     mingw64/mingw-w64-x86_64-python-jupyter_core \
     mingw64/mingw-w64-x86_64-python-jupyter_console \
     mingw64/mingw-w64-x86_64-python-jupyter_client \
@@ -197,6 +208,13 @@ pacman -S --needed \
     mingw64/mingw-w64-x86_64-nettle \
     mingw64/mingw-w64-x86_64-gmic \
     mingw64/mingw-w64-x86_64-xxhash \
+    mingw64/mingw-w64-x86_64-libtommath \
+    mingw64/mingw-w64-x86_64-lasem \
+    mingw64/mingw-w64-x86_64-glm \
+    mingw64/mingw-w64-x86_64-ensmallen \
+    mingw64/mingw-w64-x86_64-eigen3 \
+    mingw64/mingw-w64-x86_64-docbook-mathml \
+    mingw64/mingw-w64-x86_64-cglm \
     mingw64/mingw-w64-x86_64-bin2header \
     mingw64/mingw-w64-x86_64-cyrus-sasl \
     mingw64/mingw-w64-x86_64-opencolorio \
