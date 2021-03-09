@@ -100,6 +100,7 @@ pacman -S --needed \
     mingw64/mingw-w64-x86_64-lua \
     mingw64/mingw-w64-x86_64-nim \
     mingw64/mingw-w64-x86_64-vala \
+    mingw64/mingw-w64-x86_64-julia \
     mingw64/mingw-w64-x86_64-uncrustify \
     mingw64/mingw-w64-x86_64-nimble \
     mingw64/mingw-w64-x86_64-jq \
@@ -140,6 +141,7 @@ pacman -S --needed \
     mingw64/mingw-w64-x86_64-python-jupyter_client \
     mingw64/mingw-w64-x86_64-python-jupyter-nbformat \
     mingw64/mingw-w64-x86_64-python-jupyter-nbconvert \
+    mingw64/mingw-w64-x86_64-python-jdcal \
     mingw64/mingw-w64-x86_64-python-qtconsole \
     mingw64/mingw-w64-x86_64-python-ipykernel \
     mingw64/mingw-w64-x86_64-python-ipython_genutils \
