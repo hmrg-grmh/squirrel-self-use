@@ -124,6 +124,7 @@ pacman -S --needed \
     mingw64/mingw-w64-x86_64-python \
     mingw64/mingw-w64-x86_64-python-pip \
     mingw64/mingw-w64-x86_64-python-wheel \
+    mingw64/mingw-w64-x86_64-python-text-unidecode \
     mingw64/mingw-w64-x86_64-python-numba \
     mingw64/mingw-w64-x86_64-python-ipython \
     mingw64/mingw-w64-x86_64-python-path \
@@ -133,6 +134,7 @@ pacman -S --needed \
     mingw64/mingw-w64-x86_64-python-theano \
     mingw64/mingw-w64-x86_64-python-mpmath \
     mingw64/mingw-w64-x86_64-python-markdown-math \
+    mingw64/mingw-w64-x86_64-python-faker \
     mingw64/mingw-w64-x86_64-mathgl \
     mingw64/mingw-w64-x86_64-mtex2MML \
     mingw64/mingw-w64-x86_64-muparser \
