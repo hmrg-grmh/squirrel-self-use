@@ -117,6 +117,8 @@ pacman -S --needed \
     mingw64/mingw-w64-x86_64-premake \
     mingw64/mingw-w64-x86_64-cmake \
     mingw64/mingw-w64-x86_64-dmake \
+    mingw64/mingw-w64-x86_64-ninja \
+    mingw64/mingw-w64-x86_64-cninja \
     mingw64/mingw-w64-x86_64-extra-cmake-modules \
     mingw64/mingw-w64-x86_64-live-chart-gtk3 \
     mingw64/mingw-w64-x86_64-hiredis \
