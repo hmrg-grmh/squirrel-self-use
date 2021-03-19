@@ -101,6 +101,10 @@ pacman -S --needed \
     mingw64/mingw-w64-x86_64-nim \
     mingw64/mingw-w64-x86_64-vala \
     mingw64/mingw-w64-x86_64-julia \
+    mingw64/mingw-w64-x86_64-drmingw \
+    mingw64/mingw-w64-x86_64-luajit \
+    mingw64/mingw-w64-x86_64-libgccjit \
+    mingw64/mingw-w64-x86_64-python-llvmlite \
     mingw64/mingw-w64-x86_64-uncrustify \
     mingw64/mingw-w64-x86_64-nimble \
     mingw64/mingw-w64-x86_64-jq \
@@ -204,11 +208,11 @@ pacman -S --needed \
     mingw64/mingw-w64-x86_64-python-win_unicode_console \
     mingw64/mingw-w64-x86_64-python-imagecodecs \
     mingw64/mingw-w64-x86_64-python-matplotlib \
+    mingw64/mingw-w64-x86_64-ffmpeg-python \
     mingw64/mingw-w64-x86_64-pyside2-qt5 \
     mingw64/mingw-w64-x86_64-liberime \
     mingw64/mingw-w64-x86_64-git-repo \
     mingw64/mingw-w64-x86_64-luabind-git \
-    mingw64/mingw-w64-x86_64-luajit \
     mingw64/mingw-w64-x86_64-librsync \
     mingw64/mingw-w64-x86_64-putty \
     mingw64/mingw-w64-x86_64-nettle \
