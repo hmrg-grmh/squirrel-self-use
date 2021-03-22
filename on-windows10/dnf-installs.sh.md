@@ -17,7 +17,8 @@ sudo sed -e 's|^metalink=|#metalink=|g' \
 ```bash
 sudo dnf install \
         screen gawk grep sed openssl openssh sshpass git rsync findutils curl wget criu util-linux \
-        rust bc zsh bash lua ruby go python3 python fish nim \
-        mariadb docker \
+        nim racket* rust lua luajit* ruby bc zsh bash fish go pypy* python3 python \
+        htop ranger fzf neovim \
+        mariadb docker mkvtoolnix \
 ;
 ```
