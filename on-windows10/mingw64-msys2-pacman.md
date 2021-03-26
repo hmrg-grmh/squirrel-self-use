@@ -66,6 +66,9 @@ pacman -Syu
 pacman -S --needed \
     mingw64/mingw-w64-x86_64-aria2 \
     mingw64/mingw-w64-x86_64-dnssec-anchors \
+    mingw64/mingw-w64-x86_64-dnscrypt-proxy \
+    mingw64/mingw-w64-x86_64-kdnssd-qt5 \
+    mingw64/mingw-w64-x86_64-kunitconversion-qt5 \
     mingw64/mingw-w64-x86_64-qbittorrent \
     mingw64/mingw-w64-x86_64-precice \
     mingw64/mingw-w64-x86_64-portaudio \
@@ -101,6 +104,7 @@ pacman -S --needed \
     mingw64/mingw-w64-x86_64-nim \
     mingw64/mingw-w64-x86_64-vala \
     mingw64/mingw-w64-x86_64-julia \
+    mingw64/mingw-w64-x86_64-chicken \
     mingw64/mingw-w64-x86_64-drmingw \
     mingw64/mingw-w64-x86_64-luajit \
     mingw64/mingw-w64-x86_64-libgccjit \
@@ -172,6 +176,7 @@ pacman -S --needed \
     mingw64/mingw-w64-x86_64-python-pygithub \
     mingw64/mingw-w64-x86_64-python-qtconsole \
     mingw64/mingw-w64-x86_64-python-lz4 \
+    mingw64/mingw-w64-x86_64-python-keras \
     mingw64/mingw-w64-x86_64-python-pptx \
     mingw64/mingw-w64-x86_64-python-tifffile \
     mingw64/mingw-w64-x86_64-python-testpath \
