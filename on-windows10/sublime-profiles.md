@@ -40,6 +40,7 @@ install>> !! in [Install Package] , input to install>> list:
     >> %."Terminality" ;
     >> %."Theme - Fits" ;
     >> %."WolframLanguage" ;
+    >> %."orgmode" ;
 ] ;
 
 ;; then setting
@@ -57,7 +58,7 @@ menu>> Perferences -> settings , input as this:
     "theme": "Fits.sublime-theme",
     "translate_tabs_to_spaces": true
 }
-```json
+```>>>json
 ....>> and save it ;
 ```
 
