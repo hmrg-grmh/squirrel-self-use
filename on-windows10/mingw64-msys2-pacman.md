@@ -69,6 +69,7 @@ pacman -S --needed \
     mingw64/mingw-w64-x86_64-dnscrypt-proxy \
     mingw64/mingw-w64-x86_64-kdnssd-qt5 \
     mingw64/mingw-w64-x86_64-kunitconversion-qt5 \
+    mingw64/mingw-w64-x86_64-transmission \
     mingw64/mingw-w64-x86_64-qbittorrent \
     mingw64/mingw-w64-x86_64-precice \
     mingw64/mingw-w64-x86_64-portaudio \
@@ -144,7 +145,7 @@ pacman -S --needed \
     mingw64/mingw-w64-x86_64-python-theano \
     mingw64/mingw-w64-x86_64-python-mpmath \
     mingw64/mingw-w64-x86_64-python-markdown-math \
-    mingw64/mingw-w64-x86_64-python-faker \
+    mingw64/mingw-w64-x86_64-python-faker \    
     mingw64/mingw-w64-x86_64-mathgl \
     mingw64/mingw-w64-x86_64-mtex2MML \
     mingw64/mingw-w64-x86_64-muparser \
@@ -213,6 +214,8 @@ pacman -S --needed \
     mingw64/mingw-w64-x86_64-python-win_unicode_console \
     mingw64/mingw-w64-x86_64-python-imagecodecs \
     mingw64/mingw-w64-x86_64-python-matplotlib \
+    mingw64/mingw-w64-x86_64-python-statsmodels \
+    mingw64/mingw-w64-x86_64-python-seaborn \
     mingw64/mingw-w64-x86_64-ffmpeg-python \
     mingw64/mingw-w64-x86_64-pyside2-qt5 \
     mingw64/mingw-w64-x86_64-liberime \
