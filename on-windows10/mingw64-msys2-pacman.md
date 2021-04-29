@@ -103,6 +103,7 @@ pacman -S --needed \
     mingw64/mingw-w64-x86_64-ruby \
     mingw64/mingw-w64-x86_64-lua \
     mingw64/mingw-w64-x86_64-nim \
+    mingw64/mingw-w64-x86_64-binaryen \
     mingw64/mingw-w64-x86_64-vala \
     mingw64/mingw-w64-x86_64-julia \
     mingw64/mingw-w64-x86_64-chicken \
