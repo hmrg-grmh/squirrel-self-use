@@ -17,7 +17,7 @@ installs:
 ```bash
 sudo dnf install \
         screen gawk grep sed nano vim openssl openssh sshpass git rsync findutils curl wget criu util-linux \
-        nim racket* rust lua luajit* nodejs ruby bc zsh bash fish scala go pypy* python3 python \
+        nim racket* elixir* erlang* rust lua luajit* nodejs ruby rakudo* bc zsh bash fish scala go pypy* python3 python \
         htop ranger fzf neovim pandoc \
         mariadb docker mkvtoolnix anaconda python3-notebook \
 ;
